@@ -1,0 +1,21 @@
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\bin\Debug\Kural20v2.0.exe.config
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\bin\Debug\Kural20v2.0.exe
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\bin\Debug\Kural20v2.0.pdb
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.csprojResolveAssemblyReference.cache
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2._0.Form1.resources
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2._0.Properties.Resources.resources
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.csproj.GenerateResource.Cache
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.exe
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.pdb
+D:\Mert Dosyalar\Projeler\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2._0.AlarmForm.resources
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\bin\Debug\Kural20v2.0.exe.config
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\bin\Debug\Kural20v2.0.exe
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\bin\Debug\Kural20v2.0.pdb
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2._0.AlarmForm.resources
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2._0.Form1.resources
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2._0.Properties.Resources.resources
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.csproj.GenerateResource.cache
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.csproj.CoreCompileInputs.cache
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.exe
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.pdb
+F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.csprojAssemblyReference.cache

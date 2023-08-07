@@ -118,7 +118,46 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="logo2.fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\logo2.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ayarlar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\ayarlar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ayarlarbuton1_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\ayarlarbuton1.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ayarlar_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\ayarlar.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hakkinda_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\hakkinda.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ikon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\ikon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kapatbuton1_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\kapatbuton1.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Kural20v2_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\Kural20v2.0.exe;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="logo2_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\logo2.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\logo.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="onay_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\onay.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reset_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\reset.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="seskapat_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\seskapat.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="start_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\start.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stop_fw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\images\stop.fw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

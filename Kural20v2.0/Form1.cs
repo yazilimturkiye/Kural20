@@ -10,6 +10,13 @@ using System.Windows.Forms;
 using System.Media; // seslerin oynatılmasını sağlayan kütüphane.
 using Microsoft.Win32;
 
+
+
+//this.WindowState = FormWindowState.Minimized;
+//notifyIcon1.ShowBalloonTip(1, "Bilgi", "Uygulama arkaplanda çalışmaya devam etmekte.", ToolTipIcon.Info);
+//this.Hide();
+
+
 namespace Kural20v2._0
 {
     public partial class Form1 : Form
@@ -24,9 +31,6 @@ namespace Kural20v2._0
         public static int toplamgecen_sure = 0;
         public static SoundPlayer player = new SoundPlayer();
         string dizin = Application.StartupPath + "\\alarm.wav"; // alarm ses dosyası.
-
-        bool formTasiniyor = false;
-        Point baslangicNoktasi = new Point(0, 0);
 
         private void Form1_Load(object sender, EventArgs e) // Form LOAD
         {
@@ -98,7 +102,6 @@ namespace Kural20v2._0
                 toplamgecen_sure += 20;
                 AlarmForm alarmformu = new AlarmForm();
                 alarmformu.ShowDialog();
-                
 
             }
         }
@@ -112,7 +115,7 @@ namespace Kural20v2._0
                 player.Stop();
                 toplamgecen_sure = 0;
                 ara_vermeden_gecen_sure.Text = "0Dk";
-                moladetay_listbox.Items.Add(DateTime.Now.ToShortDateString() + "                                " + DateTime.Now.ToShortTimeString() + "                                            " + "Evet"); // mola detayını listbox'a yazdıran kod
+                moladetay_listbox.Items.Add(DateTime.Now.ToShortDateString() + "                                  " + DateTime.Now.ToShortTimeString() + "                                           " + "Evet"); // mola detayını listbox'a yazdıran kod
                 mola_timer.Enabled = false;
 
             }
@@ -124,7 +127,7 @@ namespace Kural20v2._0
                 sayac_timer.Enabled = true;
                 progressBar1.Value = 0;
                 ara_vermeden_gecen_sure.Text = toplamgecen_sure.ToString() + "Dk";
-                moladetay_listbox.Items.Add(DateTime.Now.ToShortDateString() + "                      " + DateTime.Now.ToShortTimeString() + "                                  " + "Hayır");
+                moladetay_listbox.Items.Add(DateTime.Now.ToShortDateString() + "                                  " + DateTime.Now.ToShortTimeString() + "                                           " + "Hayır");
 
 
             }
@@ -157,39 +160,6 @@ namespace Kural20v2._0
         private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             this.Show();
-        }
-
-        private void Form1_MouseDown(object sender, MouseEventArgs e)
-        {
-            formTasiniyor = true;
-            baslangicNoktasi = new Point(e.X, e.Y);
-        }
-
-        private void Form1_MouseUp(object sender, MouseEventArgs e)
-        {
-            formTasiniyor = false;
-        }
-
-        private void Form1_MouseMove(object sender, MouseEventArgs e)
-        {
-            if (formTasiniyor)
-            {
-                Point p = PointToScreen(e.Location);
-                Location = new Point(p.X - this.baslangicNoktasi.X, p.Y - this.baslangicNoktasi.Y);
-            }
-        }
-
-        private void kapatbuton_Click(object sender, EventArgs e)
-        {
-            this.Close();
-            Application.Exit();
-        }
-
-        private void indirbuton_Click(object sender, EventArgs e)
-        {
-            this.WindowState = FormWindowState.Minimized;
-            notifyIcon1.ShowBalloonTip(1, "Bilgi", "Uygulama arkaplanda çalışmaya devam etmekte.", ToolTipIcon.Info);
-            this.Hide();
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

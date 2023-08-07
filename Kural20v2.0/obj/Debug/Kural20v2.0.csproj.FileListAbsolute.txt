@@ -19,3 +19,15 @@ F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural2
 F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.exe
 F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.pdb
 F:\Projeler ve Ödevler\Kural20 Projesi\Kural20v2.0\Kural20v2.0\obj\Debug\Kural20v2.0.csprojAssemblyReference.cache
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\obj\Debug\Kural20v2.0.csproj.AssemblyReference.cache
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\obj\Debug\Kural20v2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\obj\Debug\Kural20v2._0.AlarmForm.resources
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\obj\Debug\Kural20v2._0.Form1.resources
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\obj\Debug\Kural20v2.0.csproj.GenerateResource.cache
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\obj\Debug\Kural20v2.0.csproj.CoreCompileInputs.cache
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\bin\Debug\Kural20.exe.config
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\bin\Debug\Kural20.exe
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\bin\Debug\Kural20.pdb
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\obj\Debug\Kural20.Properties.Resources.resources
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\obj\Debug\Kural20.exe
+C:\Users\Yılmaz Mert Çayır\source\repos\Kural20\Kural20v2.0\obj\Debug\Kural20.pdb

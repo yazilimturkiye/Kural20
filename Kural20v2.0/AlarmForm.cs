@@ -85,5 +85,16 @@ namespace Kural20v2._0
                 Location = new Point(p.X - this.baslangicNoktasi.X, p.Y - this.baslangicNoktasi.Y);
             }
         }
+
+        private const int WS_SYSMENU = 0x80000; //form kontrol butonlarını gizler.
+        protected override CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams cp = base.CreateParams;
+                cp.Style &= ~WS_SYSMENU;
+                return cp;
+            }
+        }
     }
 }

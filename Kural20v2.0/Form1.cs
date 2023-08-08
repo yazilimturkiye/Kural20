@@ -194,5 +194,10 @@ namespace Kural20v2._0
             toolStripMenuItem_Devam.Enabled = false;
             notifyIcon1.ShowBalloonTip(1, "Bilgi", "Sayac Devam ediyor!", ToolTipIcon.Info);
         }
+
+        private void button_ayarlar_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Gün boyu bilgisayar başında çalışanlardan iseniz, gün içinde gözlerinizin dinlenmesi için kaç defa masa başından kalkıyorsunuz? Kural20 Göz Sağlığı Takip Uygulaması gün içinde size her 20 dakikada bir 20 metre uzağa 20 saniye boyunca bakmanız için uyarı veren bir ücretsiz masaüstü programıdır., ", "Kural20 Hakkında", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }

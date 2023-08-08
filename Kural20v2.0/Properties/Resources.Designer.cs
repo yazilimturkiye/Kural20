@@ -121,16 +121,6 @@ namespace Kural20.Properties {
         }
         
         /// <summary>
-        ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
-        /// </summary>
-        internal static byte[] Kural20v2_0 {
-            get {
-                object obj = ResourceManager.GetObject("Kural20v2_0", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
         internal static System.Drawing.Bitmap logo_fw {

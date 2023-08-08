@@ -465,6 +465,7 @@
             this.button_ayarlar.Size = new System.Drawing.Size(50, 50);
             this.button_ayarlar.TabIndex = 29;
             this.button_ayarlar.UseVisualStyleBackColor = true;
+            this.button_ayarlar.Click += new System.EventHandler(this.button_ayarlar_Click);
             // 
             // Form1
             // 
